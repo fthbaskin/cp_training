@@ -1,6 +1,10 @@
 # cp_training
-## Explaination
-My solutions to the some competitive programming questions.
+## Explanation
+My solutions to some competitive programming questions.
+
+## Books
+
+* [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
 ## AlgoLeague Questions
 
